@@ -1,86 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lukas Fruntke's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lukas Fruntke
+Brucknerstrasse 4, 
+71277 Rutesheim, 
+Germany
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tel:+49-152-0199-8744">+49-152-0199-8744</a>
+| <a href="lukas@fruntke.tech">lukas@fruntke.tech</a>
+| <a href="https://www.linkedin.com/in/lukas-fruntke/">LinkedIn</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`(?)-2018`
+__Abitur__
+Gymnasium Rutesheim
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018-2021`
+__BSc in Business Information Systems, `1.7` GPA__
 
-- Sizar
+DHBW Stuttgart
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Teaching experience 
+tbd
 
-- Fellow
+## Research experience
+Research project @ DHBW Stuttgart
 
+## Professional certifications
+- AWS Solutions Architect Professional
+- AWS Solutions Architect Associate
+- AWS Developer Associate
+- AWS Cloud Practicioner
+- Azure-209
+- Gremlin Certified Chaos Engineering Practicioner
+- Accenture Technology Architect
 
+## Professional experience
 
-## Awards
+`2018-2021`
+__Dual study program member, SPIRIT/21 GmbH__
 
-`2012`
-President, *Royal Society*, London, UK
+keyfacts
 
-Associate, *French Academy of Science*, Paris, France
+`2021-present`
+__Jr. IT-Architect Innovation, Accenture__
 
+keyfacts
 
 
 ## Publications
+tbd.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Languages
+German (Native)    
+English (C1)
 
-### Journals
+## References 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+    Dominik Wagenknecht,    
+    Managing Director - Enterprise Architecture, Accenture    
+    dominik.wagenknecht@accenture.com    
 
-`1669`
-Lectiones opticæ.
+    Dr. Nikolaus Schmidt,    
+    Managing Director - Cloud Advisory, Accenture    
+    nikolaus.schmidt@accenture.com    
 
-etc. etc. etc.
+    Prof. Dr. Thomas Specht,    
+    Head of the Mannheim Institute for Business Informatics (MWI²)  
+    t.specht@hs-mannheim.de
 
-### Patents
+    Prof. Dr. Jennifer Schneider,    
+    Course Director Wirtschaftsinformatik  
+    jennifer.schneider@dhbw-stuttgart.de
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
