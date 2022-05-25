@@ -60,22 +60,21 @@ German (Native)
 English (C1)
 
 ## References 
+- Dominik Wagenknecht,    
+  Managing Director - Enterprise Architecture, Accenture    
+  dominik.wagenknecht@accenture.com  
 
-    Dominik Wagenknecht,    
-    Managing Director - Enterprise Architecture, Accenture    
-    dominik.wagenknecht@accenture.com    
+- Dr. Nikolaus Schmidt,    
+Managing Director - Cloud Advisory, Accenture    
+nikolaus.schmidt@accenture.com    
 
-    Dr. Nikolaus Schmidt,    
-    Managing Director - Cloud Advisory, Accenture    
-    nikolaus.schmidt@accenture.com    
+- Prof. Dr. Thomas Specht,    
+Head of the Mannheim Institute for Business Informatics (MWI²)  
+t.specht@hs-mannheim.de
 
-    Prof. Dr. Thomas Specht,    
-    Head of the Mannheim Institute for Business Informatics (MWI²)  
-    t.specht@hs-mannheim.de
-
-    Prof. Dr. Jennifer Schneider,    
-    Course Director Wirtschaftsinformatik  
-    jennifer.schneider@dhbw-stuttgart.de
+- Prof. Dr. Jennifer Schneider,    
+Course Director Wirtschaftsinformatik  
+jennifer.schneider@dhbw-stuttgart.de
 
 
 
